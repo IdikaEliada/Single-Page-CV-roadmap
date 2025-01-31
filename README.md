@@ -22,3 +22,5 @@ Submission Checklist:
 • SEO meta tags in the head section.
 • OG tags for better social media sharing.
 • A favicon linked in the head section
+
+https://roadmap.sh/projects/single-page-cv/solutions?u=679b3c0731e842a9fc7e45e0
